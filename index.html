@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="Fit Scanner">
+    <meta name="author" content="kiu Nakamura">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="shortcut icon" href="favicon.png">
+    <title>Fitscan</title>
+    <link href="css/bootstrap-cyborg.min.css" rel="stylesheet">
+    <link href="css/typeaheadjs.css" rel="stylesheet">
+    <link href="css/fit-o-matic.css" rel="stylesheet">
+    
+  </head>
+
+<body>
+<div class="container">
+  <h1>Fitscan</h1>
+  <hr>
+
+  <div class="row">
+  	<div class="col-sm-4">
+  	  <label>Ship Selection</label><br>
+	    <div id="ship-selector" style="padding: 0; border: none;">   
+        <input type="text" class="form-control text-right typeahead" placeholder="Select a ship" id="ship-selector-value">
+    	</div>
+      
+      <div id="status" class="text-center">
+  	    <label>Status</label><br>
+  	    <span id="slotHigh">0 / 0</span> <small>High</small><br>
+  	    <span id="slotMedium">0 / 0</span> <small>Medium</small><br>
+  	    <span id="slotLow">0 / 0</span> <small>Low</small><br>
+  	    <span id="slotRig">0 / 0</span> <small>Rigs</small><br>
+  	    <span id="scans">0</span> <small>Scans</small><br>
+      </div>
+      
+    </div>
+
+    <!-- <div class="col-sm-4">
+        <label>Scan Result</label><br>
+        <textarea class="form-control" rows="1" id="textScan" placeholder="Paste scan result in here"></textarea><br>
+        <span id="scanMsg"></span>
+    </div> -->
+    
+  	<div class="col-sm-8">
+  	    <label>Potential Fit</label><br>
+  	    <textarea class="form-control" rows="16" id="textFit" placeholder="Please select a ship..."></textarea>
+  	</div>
+  </div>
+  <div class="row">
+    <div class="col-sm-8 col-sm-offset-4">
+      <div id="fit-buttons">
+        <button class="btn btn-primary" onclick="copyFitToClipboard();">Copy to Clipboard</button>
+        <button class="btn btn-danger" id="btnReset" onclick="reset();">Reset All</button>
+      </div>
+    </div>
+  </div>
+</div>
+    <div style="font-size:70%; position:fixed; bottom:1px; right:5px; z-index:23;">Brought to you by <a href="http://evewho.com/pilot/kiu+Nakamura" target="_blank">kiu Nakamura</a> / <a href="http://evewho.com/alli/Brave+Collective" target="_blank">Brave Collective</a></div>
+    <script>
+    window.nodeRequire = require;
+    delete window.require;
+    delete window.exports;
+    delete window.module;
+    </script>
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/handlebars-v1.3.0.js"></script>
+    <script src="js/typeahead.bundle.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/fitscan.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,3 @@
+#fit-buttons, #status {
+  padding-top: 30px;
+}

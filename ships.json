@@ -1,0 +1,2554 @@
+[
+    {
+        "class": "Jump Freighter",
+        "name": "Rhea",
+        "slotHgh": 0,
+        "slotLow": 3,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Jump Freighter",
+        "name": "Nomad",
+        "slotHgh": 0,
+        "slotLow": 3,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Jump Freighter",
+        "name": "Anshar",
+        "slotHgh": 0,
+        "slotLow": 3,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Jump Freighter",
+        "name": "Ark",
+        "slotHgh": 0,
+        "slotLow": 3,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Destroyer",
+        "name": "Coercer",
+        "slotHgh": 8,
+        "slotLow": 3,
+        "slotMed": 2,
+        "slotRig": 3
+    },
+    {
+        "class": "Destroyer",
+        "name": "Cormorant",
+        "slotHgh": 8,
+        "slotLow": 2,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Destroyer",
+        "name": "Catalyst",
+        "slotHgh": 8,
+        "slotLow": 3,
+        "slotMed": 2,
+        "slotRig": 3
+    },
+    {
+        "class": "Destroyer",
+        "name": "Thrasher",
+        "slotHgh": 8,
+        "slotLow": 2,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Destroyer",
+        "name": "Algos",
+        "slotHgh": 6,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Destroyer",
+        "name": "Dragoon",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 2,
+        "slotRig": 3
+    },
+    {
+        "class": "Destroyer",
+        "name": "Corax",
+        "slotHgh": 7,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Destroyer",
+        "name": "Talwar",
+        "slotHgh": 7,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Prototype Exploration Ship",
+        "name": "Zephyr",
+        "slotHgh": 1,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Utu",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Malice",
+        "slotHgh": 5,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Vengeance",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Wolf",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 2,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Hawk",
+        "slotHgh": 5,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Harpy",
+        "slotHgh": 5,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Retribution",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 2,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Jaguar",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Ishkur",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Enyo",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Freki",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Assault Frigate",
+        "name": "Cambion",
+        "slotHgh": 4,
+        "slotLow": 3,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Attack Battlecruiser",
+        "name": "Oracle",
+        "slotHgh": 8,
+        "slotLow": 6,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Attack Battlecruiser",
+        "name": "Naga",
+        "slotHgh": 8,
+        "slotLow": 3,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Attack Battlecruiser",
+        "name": "Talos",
+        "slotHgh": 8,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Attack Battlecruiser",
+        "name": "Tornado",
+        "slotHgh": 8,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Dreadnought",
+        "name": "Revelation",
+        "slotHgh": 4,
+        "slotLow": 8,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Dreadnought",
+        "name": "Naglfar",
+        "slotHgh": 3,
+        "slotLow": 6,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Dreadnought",
+        "name": "Moros",
+        "slotHgh": 4,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Dreadnought",
+        "name": "Phoenix",
+        "slotHgh": 4,
+        "slotLow": 5,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Supercarrier",
+        "name": "Revenant",
+        "slotHgh": 7,
+        "slotLow": 5,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Supercarrier",
+        "name": "Hel",
+        "slotHgh": 6,
+        "slotLow": 5,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Supercarrier",
+        "name": "Nyx",
+        "slotHgh": 6,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Supercarrier",
+        "name": "Wyvern",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 8,
+        "slotRig": 3
+    },
+    {
+        "class": "Supercarrier",
+        "name": "Aeon",
+        "slotHgh": 6,
+        "slotLow": 8,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Shuttle",
+        "name": "Caldari Shuttle",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Shuttle",
+        "name": "Gallente Shuttle",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Shuttle",
+        "name": "Minmatar Shuttle",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Shuttle",
+        "name": "Amarr Shuttle",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Shuttle",
+        "name": "Goru's Shuttle",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Shuttle",
+        "name": "Guristas Shuttle",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Shuttle",
+        "name": "Apotheosis",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Shuttle",
+        "name": "InterBus Shuttle",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Shuttle",
+        "name": "Leopard",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Shuttle",
+        "name": "Council Diplomatic Shuttle",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Freighter",
+        "name": "Providence",
+        "slotHgh": 0,
+        "slotLow": 3,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Freighter",
+        "name": "Charon",
+        "slotHgh": 0,
+        "slotLow": 3,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Freighter",
+        "name": "Obelisk",
+        "slotHgh": 0,
+        "slotLow": 3,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Freighter",
+        "name": "Fenrir",
+        "slotHgh": 0,
+        "slotLow": 3,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Freighter",
+        "name": "Bowhead",
+        "slotHgh": 0,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Capital Industrial Ship",
+        "name": "Rorqual",
+        "slotHgh": 6,
+        "slotLow": 3,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Marauder",
+        "name": "Paladin",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Marauder",
+        "name": "Kronos",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Marauder",
+        "name": "Vargur",
+        "slotHgh": 8,
+        "slotLow": 5,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Marauder",
+        "name": "Golem",
+        "slotHgh": 8,
+        "slotLow": 4,
+        "slotMed": 7,
+        "slotRig": 2
+    },
+    {
+        "class": "Stealth Bomber",
+        "name": "Nemesis",
+        "slotHgh": 5,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Stealth Bomber",
+        "name": "Manticore",
+        "slotHgh": 5,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Stealth Bomber",
+        "name": "Hound",
+        "slotHgh": 5,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Stealth Bomber",
+        "name": "Purifier",
+        "slotHgh": 5,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Exhumer",
+        "name": "Hulk",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Exhumer",
+        "name": "Skiff",
+        "slotHgh": 1,
+        "slotLow": 3,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Exhumer",
+        "name": "Mackinaw",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Electronic Attack Ship",
+        "name": "Keres",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Electronic Attack Ship",
+        "name": "Sentinel",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Electronic Attack Ship",
+        "name": "Kitsune",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Electronic Attack Ship",
+        "name": "Hyena",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Interdiction Cruiser",
+        "name": "Onyx",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Interdiction Cruiser",
+        "name": "Broadsword",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Interdiction Cruiser",
+        "name": "Devoter",
+        "slotHgh": 6,
+        "slotLow": 7,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Interdiction Cruiser",
+        "name": "Phobos",
+        "slotHgh": 6,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Interdiction Cruiser",
+        "name": "Fiend",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 7,
+        "slotRig": 2
+    },
+    {
+        "class": "Industrial Command Ship",
+        "name": "Orca",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Covert Ops",
+        "name": "Helios",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Covert Ops",
+        "name": "Cheetah",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Covert Ops",
+        "name": "Anathema",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Covert Ops",
+        "name": "Buzzard",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Covert Ops",
+        "name": "Chremoas",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Blockade Runner",
+        "name": "Crane",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Blockade Runner",
+        "name": "Prorator",
+        "slotHgh": 2,
+        "slotLow": 4,
+        "slotMed": 2,
+        "slotRig": 2
+    },
+    {
+        "class": "Blockade Runner",
+        "name": "Prowler",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Blockade Runner",
+        "name": "Viator",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Frigate",
+        "name": "Bantam",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Condor",
+        "slotHgh": 4,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Griffin",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Slasher",
+        "slotHgh": 4,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Probe",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Rifter",
+        "slotHgh": 4,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Executioner",
+        "slotHgh": 4,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Inquisitor",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 2,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Tormentor",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Navitas",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Tristan",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Incursus",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Punisher",
+        "slotHgh": 4,
+        "slotLow": 5,
+        "slotMed": 2,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Breacher",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Burst",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Kestrel",
+        "slotHgh": 4,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Merlin",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Heron",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Imicus",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Atron",
+        "slotHgh": 4,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Maulus",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Crucifier",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Echelon",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 1,
+        "slotRig": 0
+    },
+    {
+        "class": "Frigate",
+        "name": "Vigil",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Gold Magnate",
+        "slotHgh": 3,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Silver Magnate",
+        "slotHgh": 3,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Caldari Navy Hookbill",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Imperial Navy Slicer",
+        "slotHgh": 3,
+        "slotLow": 5,
+        "slotMed": 2,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Republic Fleet Firetail",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Federation Navy Comet",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Succubus",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Cruor",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Daredevil",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Worm",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Dramiel",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Magnate",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Venture",
+        "slotHgh": 3,
+        "slotLow": 1,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Astero",
+        "slotHgh": 2,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Garmur",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Crucifier Navy Issue",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Vigil Fleet Issue",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Griffin Navy Issue",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Frigate",
+        "name": "Maulus Navy Issue",
+        "slotHgh": 2,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Tactical Destroyer",
+        "name": "Confessor",
+        "slotHgh": 6,
+        "slotLow": 5,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Tactical Destroyer",
+        "name": "Svipul",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Tactical Destroyer",
+        "name": "Jackdaw",
+        "slotHgh": 6,
+        "slotLow": 2,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Tactical Destroyer",
+        "name": "Hecate",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Deep Space Transport",
+        "name": "Bustard",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Deep Space Transport",
+        "name": "Occator",
+        "slotHgh": 2,
+        "slotLow": 6,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Deep Space Transport",
+        "name": "Mastodon",
+        "slotHgh": 2,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Deep Space Transport",
+        "name": "Impel",
+        "slotHgh": 2,
+        "slotLow": 7,
+        "slotMed": 2,
+        "slotRig": 2
+    },
+    {
+        "class": "Expedition Frigate",
+        "name": "Prospect",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Expedition Frigate",
+        "name": "Endurance",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Black Ops",
+        "name": "Redeemer",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Black Ops",
+        "name": "Sin",
+        "slotHgh": 7,
+        "slotLow": 6,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Black Ops",
+        "name": "Widow",
+        "slotHgh": 7,
+        "slotLow": 4,
+        "slotMed": 8,
+        "slotRig": 2
+    },
+    {
+        "class": "Black Ops",
+        "name": "Panther",
+        "slotHgh": 8,
+        "slotLow": 6,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Strategic Cruiser",
+        "name": "Tengu",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 3
+    },
+    {
+        "class": "Strategic Cruiser",
+        "name": "Legion",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 3
+    },
+    {
+        "class": "Strategic Cruiser",
+        "name": "Proteus",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 3
+    },
+    {
+        "class": "Strategic Cruiser",
+        "name": "Loki",
+        "slotHgh": 0,
+        "slotLow": 0,
+        "slotMed": 0,
+        "slotRig": 3
+    },
+    {
+        "class": "Logistics Frigate",
+        "name": "Deacon",
+        "slotHgh": 3,
+        "slotLow": 5,
+        "slotMed": 2,
+        "slotRig": 2
+    },
+    {
+        "class": "Logistics Frigate",
+        "name": "Kirin",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Logistics Frigate",
+        "name": "Thalia",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Logistics Frigate",
+        "name": "Scalpel",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Force Recon Ship",
+        "name": "Falcon",
+        "slotHgh": 4,
+        "slotLow": 3,
+        "slotMed": 7,
+        "slotRig": 2
+    },
+    {
+        "class": "Force Recon Ship",
+        "name": "Rapier",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Force Recon Ship",
+        "name": "Pilgrim",
+        "slotHgh": 4,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Force Recon Ship",
+        "name": "Arazu",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Force Recon Ship",
+        "name": "Moracha",
+        "slotHgh": 4,
+        "slotLow": 5,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Force Recon Ship",
+        "name": "Chameleon",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 7,
+        "slotRig": 2
+    },
+    {
+        "class": "Rookie ship",
+        "name": "Reaper",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 2,
+        "slotRig": 0
+    },
+    {
+        "class": "Rookie ship",
+        "name": "Impairor",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 2,
+        "slotRig": 0
+    },
+    {
+        "class": "Rookie ship",
+        "name": "Ibis",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 2,
+        "slotRig": 0
+    },
+    {
+        "class": "Rookie ship",
+        "name": "Velator",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 2,
+        "slotRig": 0
+    },
+    {
+        "class": "Rookie ship",
+        "name": "Immolator",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 3,
+        "slotRig": 0
+    },
+    {
+        "class": "Rookie ship",
+        "name": "Echo",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 3,
+        "slotRig": 0
+    },
+    {
+        "class": "Rookie ship",
+        "name": "Hematos",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 3,
+        "slotRig": 0
+    },
+    {
+        "class": "Rookie ship",
+        "name": "Taipan",
+        "slotHgh": 2,
+        "slotLow": 2,
+        "slotMed": 3,
+        "slotRig": 0
+    },
+    {
+        "class": "Rookie ship",
+        "name": "Violator",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 2,
+        "slotRig": 0
+    },
+    {
+        "class": "Interceptor",
+        "name": "Crow",
+        "slotHgh": 4,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Interceptor",
+        "name": "Raptor",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Interceptor",
+        "name": "Crusader",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 2,
+        "slotRig": 2
+    },
+    {
+        "class": "Interceptor",
+        "name": "Malediction",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Interceptor",
+        "name": "Claw",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 2,
+        "slotRig": 2
+    },
+    {
+        "class": "Interceptor",
+        "name": "Stiletto",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Interceptor",
+        "name": "Taranis",
+        "slotHgh": 4,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Interceptor",
+        "name": "Ares",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Interceptor",
+        "name": "Whiptail",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Interceptor",
+        "name": "Imp",
+        "slotHgh": 3,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Logistics",
+        "name": "Scimitar",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Logistics",
+        "name": "Basilisk",
+        "slotHgh": 6,
+        "slotLow": 2,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Logistics",
+        "name": "Guardian",
+        "slotHgh": 6,
+        "slotLow": 5,
+        "slotMed": 2,
+        "slotRig": 2
+    },
+    {
+        "class": "Logistics",
+        "name": "Oneiros",
+        "slotHgh": 4,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Logistics",
+        "name": "Etana",
+        "slotHgh": 6,
+        "slotLow": 3,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Destroyers",
+        "name": "Bifrost",
+        "slotHgh": 6,
+        "slotLow": 3,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Destroyers",
+        "name": "Pontifex",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Destroyers",
+        "name": "Stork",
+        "slotHgh": 6,
+        "slotLow": 2,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Destroyers",
+        "name": "Magus",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Industrial",
+        "name": "Badger",
+        "slotHgh": 2,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Tayra",
+        "slotHgh": 2,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Nereus",
+        "slotHgh": 2,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Hoarder",
+        "slotHgh": 3,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Mammoth",
+        "slotHgh": 2,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Wreathe",
+        "slotHgh": 2,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Kryos",
+        "slotHgh": 2,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Epithal",
+        "slotHgh": 2,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Miasmos",
+        "slotHgh": 2,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Iteron Mark V",
+        "slotHgh": 2,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Bestower",
+        "slotHgh": 2,
+        "slotLow": 6,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Primae",
+        "slotHgh": 0,
+        "slotLow": 4,
+        "slotMed": 0,
+        "slotRig": 0
+    },
+    {
+        "class": "Industrial",
+        "name": "Noctis",
+        "slotHgh": 8,
+        "slotLow": 3,
+        "slotMed": 2,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Miasmos Quafe Ultra Edition",
+        "slotHgh": 1,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Miasmos Quafe Ultramarine Edition",
+        "slotHgh": 1,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Sigil",
+        "slotHgh": 2,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Industrial",
+        "name": "Miasmos Amastris Edition",
+        "slotHgh": 1,
+        "slotLow": 3,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Osprey",
+        "slotHgh": 5,
+        "slotLow": 3,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Caracal",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Stabber",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Moa",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Maller",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Augoror",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Vexor",
+        "slotHgh": 4,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Thorax",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Arbitrator",
+        "slotHgh": 4,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Rupture",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Bellicose",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Scythe",
+        "slotHgh": 3,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Blackbird",
+        "slotHgh": 4,
+        "slotLow": 3,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Celestis",
+        "slotHgh": 3,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Exequror",
+        "slotHgh": 3,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Opux Luxury Yacht",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Omen",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Guardian-Vexor",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Caracal Navy Issue",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Omen Navy Issue",
+        "slotHgh": 5,
+        "slotLow": 7,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Stabber Fleet Issue",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Gila",
+        "slotHgh": 5,
+        "slotLow": 3,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Phantasm",
+        "slotHgh": 4,
+        "slotLow": 5,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Cynabal",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Vigilant",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Vexor Navy Issue",
+        "slotHgh": 4,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Ashimmu",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Scythe Fleet Issue",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Augoror Navy Issue",
+        "slotHgh": 5,
+        "slotLow": 7,
+        "slotMed": 3,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Osprey Navy Issue",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Exequror Navy Issue",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Stratios",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Stratios Emergency Responder",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Orthrus",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Cruiser",
+        "name": "Victorieux Luxury Yacht",
+        "slotHgh": 1,
+        "slotLow": 4,
+        "slotMed": 1,
+        "slotRig": 3
+    },
+    {
+        "class": "Command Ship",
+        "name": "Eos",
+        "slotHgh": 6,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Ship",
+        "name": "Sleipnir",
+        "slotHgh": 7,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Ship",
+        "name": "Vulture",
+        "slotHgh": 7,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Ship",
+        "name": "Absolution",
+        "slotHgh": 7,
+        "slotLow": 7,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Ship",
+        "name": "Astarte",
+        "slotHgh": 7,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Ship",
+        "name": "Claymore",
+        "slotHgh": 7,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Ship",
+        "name": "Nighthawk",
+        "slotHgh": 7,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Command Ship",
+        "name": "Damnation",
+        "slotHgh": 7,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Battleship",
+        "name": "Raven",
+        "slotHgh": 7,
+        "slotLow": 5,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Tempest",
+        "slotHgh": 8,
+        "slotLow": 6,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Scorpion",
+        "slotHgh": 5,
+        "slotLow": 5,
+        "slotMed": 8,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Megathron",
+        "slotHgh": 7,
+        "slotLow": 8,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Apocalypse",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Armageddon",
+        "slotHgh": 7,
+        "slotLow": 7,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Typhoon",
+        "slotHgh": 7,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Dominix",
+        "slotHgh": 6,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Apocalypse Imperial Issue",
+        "slotHgh": 8,
+        "slotLow": 8,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Armageddon Imperial Issue",
+        "slotHgh": 8,
+        "slotLow": 8,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Megathron Federate Issue",
+        "slotHgh": 8,
+        "slotLow": 8,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Raven Navy Issue",
+        "slotHgh": 8,
+        "slotLow": 5,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Apocalypse Navy Issue",
+        "slotHgh": 8,
+        "slotLow": 8,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Megathron Navy Issue",
+        "slotHgh": 8,
+        "slotLow": 8,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Tempest Fleet Issue",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Nightmare",
+        "slotHgh": 6,
+        "slotLow": 6,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Machariel",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Vindicator",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Rattlesnake",
+        "slotHgh": 6,
+        "slotLow": 6,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Bhaalgorn",
+        "slotHgh": 7,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Rokh",
+        "slotHgh": 8,
+        "slotLow": 5,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Hyperion",
+        "slotHgh": 7,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Abaddon",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Maelstrom",
+        "slotHgh": 8,
+        "slotLow": 5,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Raven State Issue",
+        "slotHgh": 8,
+        "slotLow": 6,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Tempest Tribal Issue",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Armageddon Navy Issue",
+        "slotHgh": 8,
+        "slotLow": 8,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Dominix Navy Issue",
+        "slotHgh": 6,
+        "slotLow": 7,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Scorpion Navy Issue",
+        "slotHgh": 7,
+        "slotLow": 5,
+        "slotMed": 8,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Typhoon Fleet Issue",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Nestor",
+        "slotHgh": 7,
+        "slotLow": 6,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Barghest",
+        "slotHgh": 8,
+        "slotLow": 6,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Battleship",
+        "name": "Rattlesnake Victory Edition",
+        "slotHgh": 6,
+        "slotLow": 6,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Titan",
+        "name": "Erebus",
+        "slotHgh": 8,
+        "slotLow": 7,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Titan",
+        "name": "Leviathan",
+        "slotHgh": 8,
+        "slotLow": 5,
+        "slotMed": 8,
+        "slotRig": 3
+    },
+    {
+        "class": "Titan",
+        "name": "Avatar",
+        "slotHgh": 8,
+        "slotLow": 8,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Titan",
+        "name": "Ragnarok",
+        "slotHgh": 8,
+        "slotLow": 6,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Carrier",
+        "name": "Archon",
+        "slotHgh": 5,
+        "slotLow": 7,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Carrier",
+        "name": "Thanatos",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Carrier",
+        "name": "Chimera",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 7,
+        "slotRig": 3
+    },
+    {
+        "class": "Carrier",
+        "name": "Nidhoggur",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Recon Ship",
+        "name": "Rook",
+        "slotHgh": 5,
+        "slotLow": 3,
+        "slotMed": 7,
+        "slotRig": 2
+    },
+    {
+        "class": "Combat Recon Ship",
+        "name": "Huginn",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Combat Recon Ship",
+        "name": "Lachesis",
+        "slotHgh": 4,
+        "slotLow": 4,
+        "slotMed": 7,
+        "slotRig": 2
+    },
+    {
+        "class": "Combat Recon Ship",
+        "name": "Curse",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Gnosis",
+        "slotHgh": 6,
+        "slotLow": 6,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Ferox",
+        "slotHgh": 7,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Brutix",
+        "slotHgh": 7,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Cyclone",
+        "slotHgh": 7,
+        "slotLow": 5,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Prophecy",
+        "slotHgh": 5,
+        "slotLow": 7,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Harbinger",
+        "slotHgh": 7,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Drake",
+        "slotHgh": 7,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Myrmidon",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Hurricane",
+        "slotHgh": 7,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Brutix Navy Issue",
+        "slotHgh": 7,
+        "slotLow": 7,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Drake Navy Issue",
+        "slotHgh": 8,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Harbinger Navy Issue",
+        "slotHgh": 7,
+        "slotLow": 6,
+        "slotMed": 5,
+        "slotRig": 3
+    },
+    {
+        "class": "Combat Battlecruiser",
+        "name": "Hurricane Fleet Issue",
+        "slotHgh": 8,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 3
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Adrestia",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Vangel",
+        "slotHgh": 6,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Cerberus",
+        "slotHgh": 6,
+        "slotLow": 4,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Vagabond",
+        "slotHgh": 6,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Zealot",
+        "slotHgh": 5,
+        "slotLow": 7,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Ishtar",
+        "slotHgh": 4,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Eagle",
+        "slotHgh": 5,
+        "slotLow": 4,
+        "slotMed": 6,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Muninn",
+        "slotHgh": 6,
+        "slotLow": 6,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Sacrilege",
+        "slotHgh": 6,
+        "slotLow": 5,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Deimos",
+        "slotHgh": 5,
+        "slotLow": 6,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Heavy Assault Cruiser",
+        "name": "Mimir",
+        "slotHgh": 6,
+        "slotLow": 6,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Interdictor",
+        "name": "Heretic",
+        "slotHgh": 8,
+        "slotLow": 3,
+        "slotMed": 3,
+        "slotRig": 2
+    },
+    {
+        "class": "Interdictor",
+        "name": "Sabre",
+        "slotHgh": 8,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 2
+    },
+    {
+        "class": "Interdictor",
+        "name": "Eris",
+        "slotHgh": 8,
+        "slotLow": 4,
+        "slotMed": 2,
+        "slotRig": 2
+    },
+    {
+        "class": "Interdictor",
+        "name": "Flycatcher",
+        "slotHgh": 8,
+        "slotLow": 1,
+        "slotMed": 5,
+        "slotRig": 2
+    },
+    {
+        "class": "Mining Barge",
+        "name": "Covetor",
+        "slotHgh": 3,
+        "slotLow": 2,
+        "slotMed": 1,
+        "slotRig": 3
+    },
+    {
+        "class": "Mining Barge",
+        "name": "Retriever",
+        "slotHgh": 2,
+        "slotLow": 3,
+        "slotMed": 1,
+        "slotRig": 3
+    },
+    {
+        "class": "Mining Barge",
+        "name": "Procurer",
+        "slotHgh": 1,
+        "slotLow": 2,
+        "slotMed": 4,
+        "slotRig": 3
+    }
+]
